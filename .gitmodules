@@ -2,6 +2,6 @@
 	path = themes/ezhil
 	url = "https://github.com/vividvilla/ezhil"
 
-    [submodule "themes/hugo-casper-two"]
-	path = themes/hugo-casper-two
-	url = https://github.com/vividvilla/ezhil.git
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+    url = https://github.com/vividvilla/ezhil.git
