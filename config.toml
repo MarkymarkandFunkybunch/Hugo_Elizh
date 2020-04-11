@@ -1,4 +1,4 @@
-baseURL = "realmarkli.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Mark Li"
 theme = "ezhil"
@@ -61,18 +61,18 @@ weight = 1
 
 [[menu.main]]
 name = "All posts"
-url = "realmarkli.com/posts"
+url = "/posts"
 weight = 2
 
 
 [[menu.main]]
 name = "About"
-url = "realmarkli.com/about"
+url = "/about"
 weight = 3
 
 [[menu.main]]
 name = "Tags"
-url = "realmarkli.com/tags"
+url = "/tags"
 weight = 4
 
 
