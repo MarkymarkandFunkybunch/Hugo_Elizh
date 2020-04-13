@@ -2,7 +2,7 @@
 title: "Should investors trade stocks ahead of index rebalancing or Wait"
 date: 2019-12-01T12:13:32+05:30
 description: "Savvy investors might familiar with the process and develop their strategies to predict which stocks might move in or out of index. However, should investors really trade those stocks ahead of rebalancing? Today, we aim to give investors a run down about trading strategies in terms of index rebalancing."
-tags: [Index Rebalancing]
+tags: [Index Rebalancing
 ---
 
 ## What is stock index? ## 
