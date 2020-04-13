@@ -1,5 +1,5 @@
 ---
-title: "Gold the Safe Haven"
+title: "Gold , the Safe Haven"
 date: 2019-10-07T02:01:58+05:30
 description: "Today, we want to touch base about the Gold and discuss our views in terms of different investment for gold. As we predict increasing demand and price of gold in short future and we strongly recommend investors to add gold into their portfolios."
 tag: "posts"
@@ -8,9 +8,12 @@ tags: [Investing]
 disqus: false 
 ---
 
+{{< figure src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izHLliwJ34yk/v0/-1x-1.jpg"width="350" height="200"  title="P/E Ratio" >}}
+
+
 Today, we want to touch base about the Gold and discuss our views in terms of different investment for gold. As we predict increasing demand and price of gold in short future and we strongly recommend investors to add gold into their portfolios.
 
-Factors & Examples affect Gold 
+<u> Factors & Examples affect Gold <u>
 -	Negative correlation with USD Dollar
 -	Geopolitician uncertainty
 -	Negative interest rate & Yield curve inversion
@@ -31,7 +34,7 @@ Conclusion
 
 
 
-### Factors affect Gold price: ### 
+### <bold>Factors affect Gold price:</bold> ###
 
 Gold is well know as the safe heaven asset . That is why gold price usually soars up whenever you see trade war uncertainty or intension between countries or instability of the world politics. The fear of market reaches the peak, so does gold. 
 
