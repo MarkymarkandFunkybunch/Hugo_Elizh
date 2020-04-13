@@ -8,58 +8,124 @@ tags: [Investing]
 disqus: false 
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+Today, we want to touch base about the Gold and discuss our views in terms of different investment for gold. As we predict increasing demand and price of gold in short future and we strongly recommend investors to add gold into their portfolios.
 
-It all keeps piling up, and it can feel overwhelming.
+Factors & Examples affect Gold 
+-	Negative correlation with USD Dollar
+-	Geopolitician uncertainty
+-	Negative interest rate & Yield curve inversion
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+Be greedy ”for gold”  when others are fearful 
+-	Shadow of recession &  Worldwide Turbulence
+-	Analyst views & Gold Future prices 
+-	Technical analysis & Buy point 
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+Benefits of investing in gold
+-	Hegde against inflation
+-	Portfolio diversification
+Approaches to invest in Gold
+-	Physical gold 
+-	Gold ETF
+-	Gold mining company
+Conclusion
 
-## The First Step: Triage
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
+### Factors affect Gold price: ### 
 
-Here’s what you might do:
+Gold is well know as the safe heaven asset . That is why gold price usually soars up whenever you see trade war uncertainty or intension between countries or instability of the world politics. The fear of market reaches the peak, so does gold. 
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+Gold has negative correlation with USD 
+When the value of the US dollar falls against other currencies, this often promotes people to flock to security of gold then increase gold price. Large trade deficits and large increase of money supply.
+As illustrated from below, gold price seems correlated negatively with USD. in other words, when USD increased, gold price decreases and vice versa.
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
+![](/images/Gold1.png)
 
-## Next: Focus on One Thing
+Our view: Last week, Fed gave a hawkish cut of interest rate pushing the Fed fund rate down to range between 1.75% to 2.00%. Fed cut mainly because global economic conditions are weak and uncertain continues to weigh on growth given US Chinese trade war. In other words, foreseeable weakness of us dollar echoes our recommendation of purchasing gold at the moment.
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+### Geopolitician uncertainty ### 
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+Gold retains its value not only in terms of financial uncertainty but in terms of geopolitical uncertainty, it is often called crisis commodity, it often outperforms other investments. At the moment, US trade war and US Iran tension and Brexit could be catalyst for gold price boost.
 
-The shift:
+Take Brexit as an example,
+When Brexit raised on  23-06-2016  gold price jumped from 1248- 1313 in one day. 
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
+![](/images/Gold2.png)
+ 
+ Our view:  The probability of No - deal Brexit is had been steadily increasing following the Boris Johnson ‘s “do or die” promise to take the UK out of EU by 31 October and lack of and negation with the EU, which will create massive turmoil once it actions. From this point of view, demand and price of gold will increase tremendously with the accumulating fears.
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
+Tension between US- China trade war:  On 01-Aug 2019, Trump announced the additional 10% tariff will be levied on the remaining $300 billion of goods and then Central bank of China let the renminbi fall over 2% in three days to the lowest point since 2008. As a result, the gold price reacted and increased significantly in several weeks
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+![](/images/Gold3.png)
 
-## Third: Schedule Time to Simplify
+Our view: That is also the reason why with increasing uncertainty of trade war and instability of the world increases the demand of gold. Without further resolution to any issues mentioned, gold is still considered as a good buy option. 
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
+Negative interest rate & Yield curve inversion
+The yield curve inversion just got more pronounced. Not only the spread between 10-year and 3-month Treasuries, now also the spread between 10-year and 2-year turned negative. Historically speaking, economic will enter recession stage when within12-22 months after it witness yield inversion.
+Recessions means risk aversion and strengthen safe-haven demand for gold. In a response to an economic slump, the central bank is expected to provide a fresh monetary accommodation, slashing interest rates. Normally when interest rate increases, rising yield indicates strong economy and then led to inflation and money will flow into other fixed income investment. However, with negative interest environment, gold as a zero yield asset will look more attractive versus an asset that is guaranteed to lose money US market is at all time high and fears of market. Graphically, the price of gold positively correlates with negative yielding debt.
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+![](/images/Gold4.png)
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+Although billionaire hedge fund founder Ray Dalio said in a linked that it would be both risk reducing and return enhancing to considering adding a gold to one’s portfolio in a negative yield environment
+Our view: Therefore, under worldwide negative interest environment and yield curve inversion, gold looks attractive than ever and it is recommended as ideal add in to your portfolio.
 
-## Fourth: Practice Mindful Focus
+Be greedy  “for gold”  when others are fearful 
+After the understanding of factors affect the gold, we want to further explains why we strongly recommend investors to look at gold.
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
+Shadow of recession &  Worldwide Turbulence
+Just at the beginning of this week, purchasing managers’ index (PMI) reports coming out of the European Union Monday showed the Euro zone composite PMI for September come in at a lower-than-expected 50.4. A reading below 50.0 suggests contraction. More worrisome, Germany’s manufacturing PMI in September came in at 41.4, which was also worse than expected and suggests the German economy is teetering on recession.  This echoes above mentioned worldwide recession and instability, purchasing gold will preserve the dollar value and hedge against black swan events.
+Thus, there was more protesting and related violence in Hong Kong over the weekend, the U.S.-China trade negotiations have taken another step backward and there is mounting concern regarding weakening global economic growth. U.S.-Iran tensions are also smouldering in the background. All of the above making traders and investors around the globe extra nervous.
+Last week, former Overstock CEO Patrick Byrne liquidated his position in his company and bought gold, silver and bitcoin to protect against a recession and the deep state. 
+Byrne said his move to hard assets is a hedge against a "deteriorating world situation" and the "Deep State". 
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+Analyst views & Gold Future prices 
+Also, according to a recent note by Citigroup’s analysts, the outlook for gold is quite healthy as they see a possibility of prices rallying to a record above $2,000 an ounce in the next two years. 
+They quote we expect spot gold prices to trade stronger for longer, possibly breaching $2,000 an ounce and posting new cyclical highs at some point in the next year or two,” they said. If that level was reached, it would exceed the record of $1,921.17 set in 2011. 
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+The price of gold rallied today, closing up more than 1% to $1,531 per ounce and U.S. gold futures rose 1.1% to $1,532.40 an ounce.  That was its highest closing price in more than two weeks. 
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+Technical analysis & Buy point 
+Gold price provided additional positive trades to achieve our first waited target at 1524.00 and attempts to confirm breaching it, reinforcing the expectations of continuing the bullish trend in the upcoming sessions, reminding you that our next target reaches 1555.00, while achieving it conditions holding above 1485.00. At this point we are looking at 1555 at the first place and further breakout afterwards.
+Also, please keep in mind the pullback is healthy for the gold market. It is always a challenge to pinpoint highs or lows when a market is very volatile
+
+![](/images/Gold5.png)
+
+Other Benefits of investing in gold
+Including gold in your portfolio also provides investors with other benefits.
+
+Hedge against inflation
+inflation happens when currency loss and it loses power of purchasing to inflation, gold tends to be priced in. Gold is treated as good store of value so people may be encouraged to buy gold when they believe local currency is losing value. With low interest rate at the moment and high inflation predicted in the future, purchasing the gold will be an optimal option to hedge against inflation and preserve your dollar value.
+
+Portfolio Diversification
+
+The essence of portfolio diversification is finding various investment that are not closely correlated to one another, in other words, smaller beta. Gold has historically had a negative correlation to stocks and other financial instruments. Recent history bears this out:
+•	The 1970s was great for gold, but terrible for stocks, 1980s and 1990s is exact opposite
+•	2008 saw stocks drop substantially as consumers migrated to gold.
+Properly diversified investors combine gold with stocks and bonds in a portfolio to reduce the overall volatility and risk.
+
+Approaches to invest in Gold
+
+With that said, there are several following ways to invest in Gold:
+
+Physical Gold:
+You could purchase physical gold and pay storage fee by yourself. In this case, you eliminate third party risk and it perfectly tracks the gold price compared to other investment like ETF introduced later.  You should keep in mind that purchasing physical gold is considered as value preservation before your commit any money into physical good. As physical gold doesn’t suit for the strategy of buying in and sell out next day. Without market pressure, timeframe of bullion purchase is recommended to be set around 8-10 years and the biggest problem will be how you keep it safe. 
+Another thing to keep in mind is even though gold can preserve its value but it doesn’t have ability to generate extra cash flow, for example interests for locking in term deposits, dividends for owing securities, coupons for owning bonds etc. 
+
+
+Gold ETF: 
+Based on the volatility of the gold price, investor usually invest in Gold ETF to gain exposure to gold  and its price movements. As ETFs Physical Gold fund provides investors with a return that is equivalent to movements in the gold spot price (less fees). Moreover, you will find some gold-backed ETFs that are leveraged, offering you two or even three times of gain and losses made by gold.  As mentioned, If you are feeling bearish about the ASX, it could be worth buying some shares in this ETF.  
+There are three 100% Gold-bullion backed ETFs listed on the ASX: 
+**BetaShares Gold Bullion ETF [ASX:QAU]** 
+**ANZ ETFS Physical Gold ETF Fund [ASX:ZGOL]**
+**ETFS Metal Securities Australia Ltd [ASX:GOLD]**
+
+However, one of the biggest drawbacks of Gold ETF is that you don’t actually own gold when buying a gold ETF.  You own the security instead and the security is in theory backed by the physical gold, owned by third party on your behalf.
+
+Gold Mining Company 
+Invest in gold mining company will be another but also least recommended option to gain some exposure to gold. As companies that producing gold can experience output fall or production cost increase which leads to increase of share prices. In short, you aren’t really making a gold investment when you buy shares in a gold mining company. Instead you are buying an ownership stake in a company that is in the business of finding gold and selling it to the market at a profit. To purchase a gold mining company. you will also be subject to other company specific risks, like management issue, accounting problems or even market risks.
+
+### Conclusion ###
+
+The US central bank has two more policy meetings for the year, in October and December, but there is no certainty it would cut rates further. Market puts odds of a rate cut in October at less than 50%, but forecasts another rate cut in December. 
+Under shadow of worldwide recession and with uncertainties around several geopolitical events, we strongly recommend you add gold into your portfolio in order to not only preserve value but also to hedge against inflation and black swan events. Above discussed three investment approaches suit different investors with individual’s risk aptitude and investment horizon and we recommend you consult with financial professionals before you make your decisions.
+

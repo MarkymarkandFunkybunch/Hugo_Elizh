@@ -6,7 +6,7 @@ type: "page"
 
 Hey there, welcome to the Super Marky, it is great to see you here.
 
-I started this blog back in September 2019, initially it was designed to motivate me to introspect my own perception while now i hope it could be also acted as a curated to budge you to think differently & radically.
+I started this blog back in September 2019, initially it was launched to introspect my own perception while now i hope it could be also budge you to think differently & radically.
 
 There are certain topics you might expect from this blog:
 
