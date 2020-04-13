@@ -3,6 +3,8 @@ title: "Introduction to PE:
         Should you invest in Nanosonics(NAN.ASX)? "
 date: 2019-12-18T12:13:30+05:30
 tags: [Investing]
+
+disqus: false
 ---
 
 The Market keeps expressing bullish sentiment towards Nanosonics Limited (ASX: NAN) ‘s future growth and rosy outlook, however some investors still get cold feet with its high PE. Today we take a close look about nanosonics while explain PE ratio in more details.
