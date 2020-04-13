@@ -14,7 +14,7 @@ There are certain topics you might expect from this blog:
   * Data Science / Analytics
   * VC / Entrepreneurship
   * Fitness / Lifestyle 
-  * Stand up Comedy
+  
 
 
 
