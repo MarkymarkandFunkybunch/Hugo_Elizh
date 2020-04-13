@@ -4,4 +4,4 @@
 
 [build.environment]
 	HUGO_VERSION = "0.69.0"
-	HUGO_BASEURL = "https://www.realmarkli.com"
+	HUGO_BASEURL = "https://www.realmarkli.com/"
