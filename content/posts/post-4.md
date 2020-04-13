@@ -2,7 +2,7 @@
 title: "Alluring poison or Free Lunch? Should you add discounted LICs into your portfolio? "
 date: 2019-10-25T12:13:35+05:30
 description: "Investors often confuse about the difference between LICs and ETF also they doubt the necessity of adding discounted LICs into their portfolio. Today, we will discuss LICs in more details and demonstrate our findings."
-tags: [Investing
+tags: [Investing]
 ---
 
 ## **What is an LIC?** ## 
