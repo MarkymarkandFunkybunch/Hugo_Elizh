@@ -1,4 +1,4 @@
   
 [submodule "themes/ezhil"]
 	path = themes/ezhil
-	url = "https://github.com/vividvilla/ezhil"
+	url = "https://github.com/vividvilla/ezhil.git"
