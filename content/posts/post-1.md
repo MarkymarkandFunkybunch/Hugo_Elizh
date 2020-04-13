@@ -3,7 +3,7 @@ title: "Gold the Safe Haven"
 date: 2019-10-07T02:01:58+05:30
 description: "Today, we want to touch base about the Gold and discuss our views in terms of different investment for gold. As we predict increasing demand and price of gold in short future and we strongly recommend investors to add gold into their portfolios."
 tag: "posts"
-tags: [Primer, todo]
+tags: [Investing]
 ---
 
 You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
