@@ -42,3 +42,5 @@ Although there is a room for trading for a spike, but it is small. Because, anno
 
 Overall speaking,  our recommendation is shorting those stocks at the day 1 when stocks are effectively added to index and then close on day 4 ,at that time research recommends that artificial pressure goes away and shares normally decline bit. 
 
+
+###### (Please note: This article is general in nature. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, your personal circumstances or risk profile.) #####

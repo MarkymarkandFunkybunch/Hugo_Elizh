@@ -49,3 +49,5 @@ While research reveals among last four years premium and discount fluctuates aro
 Overall speaking, LICs will be more attractive to investors who have little exposure to the market while also have faith that discount will revert to median over long term.
 
 
+
+##### (Please note: This article is general in nature. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, your personal circumstances or risk profile.) #####

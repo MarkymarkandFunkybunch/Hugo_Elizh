@@ -166,3 +166,4 @@ The US central bank has two more policy meetings for the year, in October and De
 
 Under shadow of worldwide recession and with uncertainties around several geopolitical events, we strongly recommend you add gold into your portfolio in order to not only preserve value but also to hedge against inflation and black swan events. Above discussed three investment approaches suit different investors with individual’s risk aptitude and investment horizon and we recommend you consult with financial professionals before you make your decisions.
 
+##### (Please note: This article is general in nature. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, your personal circumstances or risk profile.) #####

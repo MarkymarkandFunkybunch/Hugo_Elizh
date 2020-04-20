@@ -53,3 +53,8 @@ There is no point leave dividend off the table when we discuss about earning sin
 ## Conclusion
 
 NAN’s impeccable balance sheet offers investors an undeniable reason to buy. Before investors stringent their punter, it is worthwhile to noticing 193 times PE multiple although It has potential to be lowered below industry average after three years.
+
+
+
+
+##### (Please note: This article is general in nature. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, your personal circumstances or risk profile.) #####

@@ -1,6 +1,6 @@
 ---
 title: "Market Wrap Daily"
-date: 2019-10-25T12:13:35+05:30
+date: 2020-04-20T12:13:35+05:30
 description: "Market update daily"
 tags: [Investing,Trading]
 
@@ -25,3 +25,4 @@ Within next 28 days, Deloitte will sit with management team to figure out plan t
 ![](/images/MW20042.png)
  
 
+##### (Please note: This article is general in nature. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, your personal circumstances or risk profile.) #####
