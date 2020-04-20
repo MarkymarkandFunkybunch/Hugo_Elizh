@@ -6,7 +6,7 @@ tags: [Investing,Trading]
 
 disqus: false 
 
-draft: true 
+
 ---
 
 ## 20-04-2020 ## 
