@@ -10,7 +10,7 @@ disqus: false
 ---
 ## 21-04-2020 ## 
 
-Market records 2.5% lower two days in row, indicating market and investors’ fear. Oil act the accomplice to kick the rock off the rally and we are all tumbling in middle of the avalanche.
+Market records 2.5% lower two days in row, indicating market and investors’ fears. Oil act the accomplice to kick the rock off the rally and we are all tumbling in middle of the avalanche.
 
 As solitary witnesses to the chaos that reigned, WTI oil futures put on the jaw dropped show where it went negative and down more than 300% within less than 2 hours. Meanwhile, Brent collapsed  followed a historic plunge in oil prices below zero for the first time ever. 
 
