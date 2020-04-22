@@ -1,6 +1,6 @@
 ---
 title: "Market Wrap & Update"
-date: 2020-04-21 T12:13:35+05:30
+date: 2020-04-21T12:13:35+05:30
 description: "Market update daily"
 tags: [Investing,Trading]
 
