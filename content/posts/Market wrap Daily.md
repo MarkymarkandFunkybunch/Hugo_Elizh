@@ -1,6 +1,5 @@
 ---
-title: "Introduction to PE:  
-        Should you invest in Nanosonics(NAN.ASX)? "
+title: "Market Wrap & update daily  "
 date: 2020-04-22T12:13:30+05:30
 
 description: "Market update daily"
