@@ -1,6 +1,6 @@
 ---
 title: "Market Wrap & Update"
-date: 2020-04-21 T12:13:35+05:30
+date: 2020-04-22T12:13:35+05:30
 description: "Market update daily"
 tags: [Investing,Trading]
 
@@ -8,6 +8,16 @@ disqus: false
 
 
 ---
+## 22-04-2020 ## 
+
+Market was closed ended the day at 5221.2 points, intraday it was down as much as 1.05% but slowly bounced back.
+
+We down as much as 7% and touched 5100 bar in three days and sending caveat to investors that the volatility is incredibly high and turmoil is not where near finished. 
+
+Although  we only have 4 cases confirmed in the past 24 hours, inevitable earning declines put lots of pressure on the rally has carried share prices off the lows recorded in March.
+
+Keey eye on the PMI data tomrrow as investors expect to investigate the magnitude of the damage.
+
 ## 21-04-2020 ## 
 
 Market records 2.5% lower two days in row, indicating market and investors’ fears. Oil act the accomplice to kick the rock off the rally and we are all tumbling in middle of the avalanche.
