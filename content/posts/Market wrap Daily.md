@@ -14,7 +14,7 @@ disqus: false
 ---
 ## 22-04-2020 ## 
 
-Market was closed ended the day at 5221.2 points, intraday it was down as much as 1.05% but slowly bounced back.
+Market  closed ended the day at 5221.2 points, intraday it was down as much as 1.05% but slowly bounced back.
 
 We down as much as 7% and touched 5100 bar in three days and sending caveat to investors that the volatility is incredibly high and turmoil is not where near finished. 
 
