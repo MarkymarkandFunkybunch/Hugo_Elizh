@@ -1,6 +1,10 @@
 ---
 title: "Market Wrap & Update"
+<<<<<<< HEAD
 date: 2020-04-22T12:13:35+05:30
+=======
+date: 2020-04-21T12:13:35+05:30
+>>>>>>> 773a3071c2e8b9a56c309b5894189e185b683eb1
 description: "Market update daily"
 tags: [Investing,Trading]
 
