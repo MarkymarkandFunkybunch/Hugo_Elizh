@@ -9,6 +9,20 @@ disqus: false
 
 
 ---
+
+## 23-04-2020 ## 
+
+ASX200 index dipped 4.2points or 0.1 percent to 5217.1, market is now going sideways but seize slightly decreasing volatility. Followed by the rally of wall street (credit to normalized oil price), sentiments still remain fragile as investors concern potential ‘surprises’ from US quarterly earnings reports and upcoming interim reports from Australian banks.
+Worth of noticing that, goods exports to China rebounded in March, witnessed a significant increments of 29% according to data released by ABS. 
+
+
+Australia survived from 2007-2009 financial crisis under the help of China as boosting infrastructure construction and demand for mining back then. With slow recover and resume of China, I assume Australia will follow that pace. 
+
+![](/images/MW2304.png)
+
+
+
+
 ## 22-04-2020 ## 
 
 Market  closed ended the day at 5221.2 points, intraday it was down as much as 1.05% but slowly bounced back.
