@@ -1,5 +1,5 @@
 ---
-title: "Market Wrap & update daily  "
+title: "Market Wrap & update   "
 date: 2020-04-23T12:13:30+05:30
 
 description: "Market update daily"
@@ -9,6 +9,56 @@ disqus: false
 
 
 ---
+
+## 24-04-2020 ##
+
+Weekly update:
+
+**Overview:**
+The S&P/ASX 200 Index closed 0.5 per cent higher on Friday, ending the week at 5,242.6 points, or 4.5 per cent below last week's close.
+
+![](/images/MW24042_01.png)
+
+**Weekly Market wrap / Forward looking:**
+
+Stock indices have generally struggled to make new highs, and while certain asset classes that act as growth-proxies have held up reasonably well, there looks right now to be little impetus for market participants to take-on any additional risk.
+
+A lack of (upside) headline risk will do that: though some piecemeal stimulus packages have been touted or announced this week, they pale in comparison to the absolute cannons fired by government and central banks throughout late-March and early April.
+
+ On top of that, too, the sight of very rich valuations, as price climbs but earnings guidance falls in equity markets, ups the stakes of going long stocks, as things currently stand.
+
+Given volatility is very high still by historical standards, if global markets were to be hit with some sort of negative surprise, it raises the risk of a retest of recent lows. Event risk is significant next week, meaning there’s no shortage of opportunities to see this come about. 
+
+The corporate and economic calendar is stacked, with some of America’s biggest corporations, most notably in the tech-space delivering their earnings updates, and with the world’s three largest central banks, the US Fed, the ECB, and the BOJ, set to meet. 
+
+**Weekly highlights / Wired:**
+
+Oil futures went negative for the first time with West Texas Intermediate futures settling at negative $37.63. Speculators often buy oil futures to bet that the oil price will rise, then sell the futures before they expire and they’re required to take physical delivery of oil. In this case, few buyers emerged to buy those futures because the oil glut means storage tanks are mostly full, including in Cushing, Oklahoma where oil is delivered for these particular futures.
+
+![](/images/MW24042_03.png)
+
+
+**Domestic Covid-19 update:**
+
+Scott Morrison highlighted the automate contract tracing was no in the final stage of development and that rapid response measures were being bolstered to handle outbreaks.
+
+However, China lockdown another city ‘Harbin’ due to silent carrier (one shows no symptoms) is identified and caused more than 78 cases. What happened in China reflected potential problem even when containment measure ease is implemented. Again, without effective vaccine in place we remain slightly bearish short term…  
+
+Outside of the picture:
+
+Interesting fact: Australia’s coronavirus tracing app’s data storage contract goes offshore to Amazon. With more than 30-40% worldwide drawdown, let’s take a look of Amazon’s share price.
+
+![](/images/MW24042_02.png)
+
+
+**Sectors / Stocks of interests:**
+
+Fear of missing out is fading out while valuation of valuation for the popular software companies remain hot amid covid-19. Xero,WiseTech and Altium recovered relatively quicker… 
+
+For instance, WiseTech reaffirm their earning guidance, revenue growth, strong balance sheet, robust liquidity and cash generation ability / WiseTech also expect their business to remain resilient, as Covid - 19 will continue to adversely impact on many economies and global supply chain movements, highlighting the uncertainty around its supported logistic industry.
+
+ However, demand for global technology, digital transformation and integrated platforms will continue to accelerate.
+
 
 ## 23-04-2020 ## 
 
