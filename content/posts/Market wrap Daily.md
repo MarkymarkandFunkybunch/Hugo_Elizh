@@ -1,14 +1,25 @@
 ---
 title: "Market Wrap & update   "
-date: 2020-04-23T12:13:30+05:30
+date: 2020-04-29T12:13:30+05:30
 
-description: "Market update daily"
+description: "Market update"
 tags: [Investing,Trading]
 
 disqus: false 
 
 
 ---
+## 29-04-2020:## 
+
+Market closed 1.51% higher with 5393.40 with risk appetite returned, in sympathy with broader Asian indices. Interestingly, ASX200 continues to underperform other global benchmark indices possibly due to stronger AUD/USD..   
+
+Australian CPI data was the key event risk locally today, it generally surprised to the upside, with year-over-year price growth increasing by 2.2 per cent las quarter, up from 1.8 per cent in the previous quarter. With hoarding consumption for staple goods( including pizza, pasta ,toilet paper,etc) and triage demand, the abnormality is estimated to run into opposite way, resulting in greater deflationary in short term.
+
+In terms of the market sentiments, market conditions cant be said to have been anything close to bearish however overnight US market appeared a touch of de-risking going on.
+
+Meanwhile, It’s become US tech’s time to shine for this quarter’s US reporting season, while the advanced US GDP print along with a meeting of the US Federal Reserve tonight will be crucial in framing the macroeconomic landscape for market participants. Market looked through the figure and put bets on that “whatever it takes” tone from Fed in its policy statement.
+
+
 
 ## 24-04-2020 ##
 
