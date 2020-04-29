@@ -9,7 +9,7 @@ disqus: false
 
 
 ---
-## 29-04-2020:## 
+## 29-04-2020 ## 
 
 Market closed 1.51% higher with 5393.40 with risk appetite returned, in sympathy with broader Asian indices. Interestingly, ASX200 continues to underperform other global benchmark indices possibly due to stronger AUD/USD..   
 
