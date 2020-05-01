@@ -11,3 +11,5 @@ What is net renuve retention：
 
 
 Net revenue rention represents as total change in recurring revenue from existing customers over time, it is referred as the proxy of sticknesss of the porducts and services..
+
+
