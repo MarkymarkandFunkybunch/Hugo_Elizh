@@ -21,3 +21,5 @@ Event Driven Strategies seek to capitalise on opportunities arising during a com
 Under due diligence and statistical modelling, hedge fund scrutinize & assess the probability and forecast the timing of potential catalysts, including FDA approval, potential mergers ,Bank license grant etc…
 
 Whenever we trade the stocks, we are actually trading the info as those catalysts lead stock prices go up or down. Track back to research deck, we normally analyse potential partnerships or negotiating M&A deals then bet against other fund managers. Once announcements made, that is when we sell our pre-filled order. On the street, so called buy the rumour but sell the fact.
+
+(To be continue...)
