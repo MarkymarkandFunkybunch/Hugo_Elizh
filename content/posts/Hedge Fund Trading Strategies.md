@@ -22,9 +22,9 @@ Under due diligence and statistical modelling, hedge fund scrutinize & assess th
 
 Whenever we trade the stocks, we are actually trading the info as those catalysts lead stock prices go up or down. Track back to research deck, we normally analyse potential partnerships or negotiating M&A deals then bet against other fund managers. Once announcements made, that is when we sell our pre-filled order. On the street, so called buy the rumour but sell the fact.
 
-(To be continue...)
 
-Systematic trading:
+
+**Systematic trading:**
 
 Thoes strategies are designed by machine and are exeucted by algos, supported by massivce historical data analysis. According the statistics from Economists,e Medallion
 fund, the flagship fund run by Renaissance
@@ -35,3 +35,5 @@ One of the biggest advantage of systematic trading relates to the diversificaito
 
 The pandemic seems likely to pose the most financial danger to highly leveraged businesses—precisely the type of firm
 that private-equity funds tend to invest in。 Private equity is accusomtised not to disclose their return, known as black box opeartion, however downgrade their returns by 20%. 
+
+(To be continue...)
