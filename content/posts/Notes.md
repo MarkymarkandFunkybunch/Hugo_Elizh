@@ -1,8 +1,8 @@
 ---
-title: "Notes"
-date: 2020-04-29T12:13:30+05:30
+title: "Notes/Thoughts"
+date: 2020-05-05T12:13:30+05:30
 
-description: "Notes from Reading/Youtube/Social medias"
+description: "Notes from Readings/Youtube/Social medias"
 tags: [Lifestyle]
 
 disqus: false 
