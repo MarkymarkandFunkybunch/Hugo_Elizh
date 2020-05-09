@@ -9,6 +9,25 @@ disqus: false
 
 
 ---
+Market wrap up:
+
+## 07-05-2020 ##
+
+
+ASX200 suffers two consecutive loss in the row and resulting 0.38% lower, banks shared majority of the blames while some mid-caps/small caps showed strong resilient interim. Despite the rally in risk assets – due to surprisingly stronger trade balance sheet with China, fears and sentiment remain conservative and investors seem waiting for clearer picture ahead.
+
+
+Rumour has the fed and global central banks are in the line to conduct more stimulus if concerns about depression extends future. However, primary question remains as how much ammunition they have left…  With already announced QE-to infinity program, if it proves insufficient, the next step for the fed will be to implement some new yield curve control program.
+
+ 
+
+ASX 200 ‘s dynamics has manifested in a market that is stuck in a range and it is losing its momentum to break through its recent double top around 5500.
+
+ 
+
+Research affirms arise of digital payment(transactions) amid this outbreak, suggesting that coronavirus is changing the way we pay.
+
+
 ## 29-04-2020 ## 
 
 Market closed 1.51% higher with 5393.40 with risk appetite returned, in sympathy with broader Asian indices. Interestingly, ASX200 continues to underperform other global benchmark indices possibly due to stronger AUD/USD..   
