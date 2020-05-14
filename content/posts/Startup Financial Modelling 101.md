@@ -1,14 +1,15 @@
 ---
-title: " Startup Financial modelling 10  "
-date: 2020-05-05T12:13:30+05:30
+title: "Startup Financial modelling 101"
+date: 2020-03-05T12:13:30+05:30
 
 description: "The glimpse of the Startup Financial modelling"
-tags: [VC][Startup]
+
+tags: [Startup]
 
 disqus: false 
-
-
 ---
+
+
 
 The glimpse of the Startup Financial modelling:
 

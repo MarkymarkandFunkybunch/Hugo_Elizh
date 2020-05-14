@@ -39,5 +39,6 @@ disqus: false
 	#8	Mohammed bin Salman Al Saud	Saudi Arabia	        34
 	#9	Narendra Modi	    India	                        69
 	#10	Larry Page	       Alphabet	                        47
+	
 
     Original link: https://www.forbes.com/powerful-people/list/#tab:overall
