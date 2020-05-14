@@ -26,19 +26,3 @@ disqus: false
 8. Key Takeaways from Mark Cuban's interviews: a. Mark Cuban is smart enough to sell his Boradcast.com to Yahoo with 5.7 billion in total and he profits for 1 billion the key here is he is not too greedy and he understands what he needs, he needs to keep those wealthy b. When you buy the stock think about why people sell it you. I don’t know you don’t know, neither do us. So be careful
 
 
-
-9. 	
-    Rank	Name	          Organization	                Age
-	#1	Xi Jinping	         China	                        66
-	#2	Vladimir Putin	     Russia	                        67
-	#3	Donald Trump	United States	                    73
-	#4	Angela Merkel	   Germany	                        65
-	#5	Jeff Bezos	      Amazon.com	                    56
-	#6	Pope Francis	Roman Catholic Church	            83
-	#7	Bill Gates	Bill & Melinda Gates Foundation	        64
-	#8	Mohammed bin Salman Al Saud	Saudi Arabia	        34
-	#9	Narendra Modi	    India	                        69
-	#10	Larry Page	       Alphabet	                        47
-	
-
-    Original link: https://www.forbes.com/powerful-people/list/#tab:overall
