@@ -1,6 +1,6 @@
 ---
 title: "Market Wrap & update   "
-date: 2020-05-07T12:13:30+05:30
+date: 2020-05-20T12:13:30+05:30
 
 description: "Market update"
 tags: [Investing,Trading]
