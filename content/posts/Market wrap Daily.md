@@ -14,12 +14,15 @@ Market wrap up:
 
 ## 20-05-2020 ##
 
-ASX followed S&P 500’s rallies yesterday along with small pop today. S&P 500 experienced the orgy thanks to the exciting news from biotechnology company’s Moderna’s possible COVID-19.
-Yet, both failed to break out the resistance level of 2960 and 5550 in this week, indicate looming prospects and conservative sentiment.  But with fundamentals apparently little changed, there’s been a lack of impetus for traders to turn overwhelmingly bullish on stock. With the normalisation of the oil price, energy sector stocks lead the rally, along with a rebound in financial sector and consumer discretionary sector stocks.
-Conveying the severe impact social distancing measures had on consumption in April, the Retail Sales data showed there was no industry that saw a rise in retail turnover last month. True to recent form, the markets generally shrugged off the poor data, seemingly putting it in the “old news” basket.
-Meanwhile, China imposed 80% tariff onto Australian barley exports for next five years and rejected to call back or put the deal back to the table, which might only be a start   
+ASX followed S&P 500’s rallies yesterday along with small pop today. S&P 500 experienced the orgy 🥳 thanks to the exciting news from biotechnology company’s Moderna’s possible COVID-19.
 
-Currently, individual portfolios are already We want to make sure we have enough ammunition when outbreaks all clear out and further possible interest rate cut. 
+Yet, both failed to break out the resistance level of 2960 and 5550 in this week, indicate looming prospects and conservative sentiment.  But with fundamentals apparently little changed, there’s been a lack of impetus for traders to turn overwhelmingly bullish on stock. With the normalisation of the oil price, energy sector stocks lead the rally, along with a rebound in financial sector and consumer discretionary 🛍️sector stocks.
+
+Conveying the severe impact social distancing measures had on consumption in April, the Retail Sales data showed there was no industry that saw a rise in retail turnover last month. True to recent form, the markets generally shrugged off the poor data, seemingly putting it in the “old news” basket.
+
+Meanwhile, China imposed 80% tariff onto Australian barley🌾 exports for next five years and rejected to call back or put the deal back to the table, which might only be a start   
+
+For now, we want to make sure we have enough ammunition when outbreaks all clear out and further possible interest rate cut. 
 
 
 
