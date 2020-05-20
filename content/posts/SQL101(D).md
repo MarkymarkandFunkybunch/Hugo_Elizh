@@ -4,7 +4,7 @@ description: "What is Sql, should you learn sql? Let's find out"
 date: 2020-01-18T12:13:38+05:30
 tags: [Data Analytics , Coding]
 
-draft: true 
+draft: false 
 ---
 
 When you browse around jobs, did you often get this from desciption?
@@ -26,6 +26,7 @@ no shortcut is the only shorcut. Like every language, we need to practice to hon
  https://www.w3schools.com/sql/default.asp 
 
  Student Table:
+
 create table Student(SId varchar(10),Sname varchar(10),Sage datetime,Ssex varchar(10));
 insert into Student values('01' , 'Mike' , '1990-01-01', 'M' );
 insert into Student values('02' , 'Jason' , '1990-12-21' , 'M');
