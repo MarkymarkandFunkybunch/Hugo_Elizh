@@ -24,3 +24,18 @@ no shortcut is the only shorcut. Like every language, we need to practice to hon
 
 
  https://www.w3schools.com/sql/default.asp 
+
+ Student Table:
+create table Student(SId varchar(10),Sname varchar(10),Sage datetime,Ssex varchar(10));
+insert into Student values('01' , 'Mike' , '1990-01-01', 'M' );
+insert into Student values('02' , 'Jason' , '1990-12-21' , 'M');
+insert into Student values('03' , 'Nick' , '1990-12-20' , 'M');
+insert into Student values('04' , 'Chris' , '1990-12-06' , 'M');
+insert into Student values('05' , 'Jessie' , '1991-12-01' , 'F');
+insert into Student values('06' , 'Emma' , '1992-01-01' , 'F');
+insert into Student values('07' , 'Olivia' , '1989-01-01' , 'F');
+insert into Student values('09' , 'Ava' , '2017-12-20' , 'F');
+insert into Student values('10' , 'Isabella' , '2017-12-25' , 'F');
+insert into Student values('11' , 'Sophia' , '2012-06-06' , 'F');
+insert into Student values('12' , 'Mia' , '2013-06-13' , 'F');
+insert into Student values('13' , 'Amelia' , '2014-06-01' , 'F');
