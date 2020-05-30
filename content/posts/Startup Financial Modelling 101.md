@@ -4,7 +4,7 @@ date: 2020-03-05T12:13:30+05:30
 
 description: "The glimpse of the Startup Financial modelling"
 
-tags: [Startup]
+tags: [Startup, VC]
 
 disqus: false 
 ---
