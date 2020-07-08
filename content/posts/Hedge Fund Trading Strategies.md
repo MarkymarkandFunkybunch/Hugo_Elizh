@@ -1,6 +1,6 @@
 ---
 title: " Trading Strategies   "
-date: 2020-02-20T12:13:30+05:30
+date: 2020-05-29T12:13:30+05:30
 
 description: " Various Trading strategies"
 tags: [Trading]
@@ -37,3 +37,22 @@ The pandemic seems likely to pose the most financial danger to highly leveraged 
 that private-equity funds tend to invest in。 Private equity is accusomtised not to disclose their return, known as black box opeartion, however downgrade their returns by 20%. 
 
 (To be continue...)
+
+**Market Netural:**
+
+A long/short equity strategy variation is the one used by equity market neutral funds characterized by holding a market neutral portfolio, i.e., its performance is not correlated to market
+movements.
+
+Even though they are close relatives, equity market neutral
+funds differ from long/short equity funds for their systematic risk level. According to the LIPPER TASS database, on 31st December 2004, equity market neutral funds accounted for only 6% of the hedge fund industry.
+
+During market uptrends, equity market neutral funds make a profit if long positions go up more rapidly than the drop in value incurred by the short positions in portfolio. Vice versa,
+in market downtrends, they make a profit if short positions go up at a faster rate than the rate at which long positions are going down.
+
+A beta adjusted net exposure close to zero is a target for every truly equity market neutral portfolio. Notwithstanding, an equity market neutral portfolio may have a beta adjusted net
+exposure that is very close to zero, but its beta adjusted net exposure with regard to sectors or geographical areas will not be zero, and therefore it may be subject to specific risks,
+like for example sector risks or country risks. 
+
+This should not come as a surprise, because our common sense tells us that if we eliminate all systemic risks, we are also giving up performance. A truly equity market neutral portfolio must be very diversified (i.e. more than 100 equities) in order to be able to minimize the sector exposures and the country exposures.
+
+Furthermore, every equity position should be hedged with another equity or a basket of equities of the same sector.

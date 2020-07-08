@@ -1,6 +1,6 @@
 ---
 title: "Market Wrap & update   "
-date: 2020-05-20T12:13:30+05:30
+date: 2020-06-20T12:13:30+05:30
 
 description: "Market update"
 tags: [Investing,Trading]
@@ -9,6 +9,11 @@ disqus: false
 
 
 ---
+
+I have now updating the market with Subtrack,please subsribe to the newsletter if you want to keep update to the market.
+
+https://markli.substack.com/
+
 Market wrap up:
 
 

@@ -25,4 +25,16 @@ disqus: false
 
 8. Key Takeaways from Mark Cuban's interviews: a. Mark Cuban is smart enough to sell his Boradcast.com to Yahoo with 5.7 billion in total and he profits for 1 billion the key here is he is not too greedy and he understands what he needs, he needs to keep those wealthy b. When you buy the stock think about why people sell it you. I don’t know you don’t know, neither do us. So be careful
 
+9. If your product is Great, it doesn't need to be Good. -- Paul Nunchheit 
 
+10. You can be a walker , a talker or both, but do effectively talk and aggressively walk. 
+
+11. Important feature is focus where you acculmating and not easily to be deviated , that is how you outperform & differentiate
+
+12. We are not computers, software direct hardware. Some of us think they are. And that pause tells you everything that you need to know about the people. The moment when convinctions run headlong into layers of psychological baggage that evolution and social convention have wrapped them in There are still a gap between the rational actions and rational thoughts
+
+13. Have you ever heard James Daveport, he was an itinernat minister during the first Great Awakening. Know for giving fiery,passionate sermons, developed quite a following. One day, he was preaching at a bonfire, he worked himself into a frenzy. He started denoucning clothing as a symbol of vanity. Took his own pants off and threw them into the fire. Totally broke the spell, his congregants decided he'd lost his mind and they left. I've got a devoted friends surrounding me, but i am getting close to throwing my pants in the fire. 
+
+14. The fastest way to cheapen anything is to put a price tag on it. And that's what capitalism is...
+
+15.There are three main reasons  why anyone like anyone else either he recognize part of themselves or they found something they could use, or they think something they are lacking, they want to near it.
