@@ -1,6 +1,6 @@
 ---
 title: "Forex Market Update"
-date: 2020-06-11 T12:13:30+05:30
+date: 2020-06-11T12:13:30+05:30
 
 description: "Gold / AUDUSD"
 tags: [Investing]
@@ -30,7 +30,7 @@ at around 1727.49. Based on the daily chart above, the Gold is testing the suppo
 the Gold could continue higher if it failed to break the support otherwise it could continue lower.
 
 
-
+AUDUSD
 
 The AUD went up 37 pips against USD on Wednesday (June 10th), at this time of writing trading at 
 around 0.69266.  It then devalued against greenback as the Fed stated “long road of recovery and 
