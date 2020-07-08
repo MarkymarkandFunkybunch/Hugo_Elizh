@@ -15,8 +15,16 @@ There are certain topics you might expect from this blog:
   * VC / Entrepreneurship
   * Fitness / Lifestyle 
 
-Contact me: you could reach me on twitter but email might be easier: mark.cl@yahoo.com
 
+
+Contact me
+You are welcomed to reach me on twitter but email might be easier: mark.cl@yahoo.com
+
+
+Other blogs / newsletter:
+
+https://markli.substack.com/ 
+https://medium.com/@WeiLi39939672
 
 
 
