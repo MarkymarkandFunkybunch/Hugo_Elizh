@@ -24,6 +24,7 @@ You are welcomed to reach me on twitter but email might be easier: mark.cl@yahoo
 Other blogs / newsletter:
 
 https://markli.substack.com/ 
+
 https://medium.com/@WeiLi39939672
 
 
