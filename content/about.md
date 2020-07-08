@@ -14,7 +14,8 @@ There are certain topics you might expect from this blog:
   * Data Science / Analytics
   * VC / Entrepreneurship
   * Fitness / Lifestyle 
-  
+
+Contact me: you could reach me on twitter but email might be easier: mark.cl@yahoo.com
 
 
 
