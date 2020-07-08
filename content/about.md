@@ -30,6 +30,4 @@ https://medium.com/@WeiLi39939672
 
 
 
-
-
 ##### This site is a static site, built using Hugo and a modified version of the theme ezhil. #####

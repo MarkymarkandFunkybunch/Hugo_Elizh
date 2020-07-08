@@ -37,4 +37,4 @@ disqus: false
 
 14. The fastest way to cheapen anything is to put a price tag on it. And that's what capitalism is...
 
-15. There are three main reasons  why anyone like anyone else either he recognize part of themselves or they found something they could use, or they think something they are lacking, they want to near it.
+15. There are three main reasons why one likes the other either they recognize part of themselves or they found something they could use, or they think something they are lacking, they want to near it.
