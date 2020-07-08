@@ -10,6 +10,7 @@ draft: false
 ---
 
 GOLD / XAUUSD
+
 Gold was up 23 pips on Thursday at the time of writing trading at around 1727.49
 The US continues its “whatever it takes” tone, indicating the ongoing aggressive monetary policy 
 towards economy supporting. Words from Powell, “We are not even thinking about raising rates” 
@@ -21,14 +22,12 @@ upon gold compared to interest-earning assets into their portfolio.
 Given on “getting nothing from holding the US dollar until 2022”, that might be a well-diversified 
 move to dump several dollars into Gold.
 
-GOLD Daily Chart
+![](/images/MC1.png)
+
 The Gold rallied by 23 pips against the USD on Wednesday (June 10th), at this time of writing trading 
 at around 1727.49. Based on the daily chart above, the Gold is testing the support area at around 
 1692. The EMAs are indicating a slight bull trend and the RSI is at its natural position. To conclude, 
 the Gold could continue higher if it failed to break the support otherwise it could continue lower.
-
-
-![](/images/MC1.png)
 
 
 
@@ -45,8 +44,8 @@ Australia has 7,267 cases and the US has 1,979,850 cases. This evening (June 10t
 the US will be releasing initial jobless claims with forecast –1500k from previous 1877k which could 
 benefit the greenback.
 
+![](/images/MC2.png)
 
-AUDUSD Daily Chart 
 
 The AUD went up 37 pips against USD on Wednesday (June 10th), at this time of writing trading at 
 around 0.69266.  Based on the daily chart above, the Aussie dollar is testing the support area at 
@@ -54,4 +53,3 @@ around 0.7023. The EMAs are indicating a bull trend and the RSI is in overbought
 the Aussie dollar could continue higher if it failed to break the support otherwise it could continue 
 lower
 
-![](/images/MC2.png)
